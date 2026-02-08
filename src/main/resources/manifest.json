@@ -1,0 +1,22 @@
+{
+    "Group": "com.hytale.stolen",
+    "Name": "OneBlock",
+    "Version": "0.1.0",
+    "Description": "A OneBlock plugin for HyTale.",
+    "Authors": [
+        {
+            "Name": "StolenSoul90"
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.hytale.stolen.oneblock.OneBlock",
+    "IncludesAssetPack": true
+}
